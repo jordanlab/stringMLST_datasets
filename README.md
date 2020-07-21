@@ -1,6 +1,6 @@
 # stringMLST datasets
 
-This repository houses pre-built pubMLST databases for stringMLST. 
+This repository houses pre-built pubMLST databases for stringMLST. Please see the releases section for pre-build databases: https://github.com/jordanlab/stringMLST_datasets/releases
 
 The datafiles are updated weekly on Saturday
 
